@@ -1,0 +1,21 @@
+.superior{
+    background: #cfd4db;
+}
+.titulo{
+    color: rgb(73, 63, 63);
+    font-family: Verdana;
+    font-size: 32;
+    text-align: center;
+    padding: 5% ;
+}
+.descipcion{
+    font-family: Verdana;
+    font-size: 18;    
+    text-align: justify;
+    padding: 5%;
+}
+
+.caja{
+    height: 400px;
+    width: 500px;
+}
